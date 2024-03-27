@@ -5,9 +5,9 @@ st.title('Hi! This is Fukong~ 😎💜')
 
 pic = st.toggle('See my picture')
 if pic:
-    st.image("https://drive.google.com/file/d/1iq53CUdfJUilCyB26XclT3NxsGPBj_Sk/view?usp=sharing", caption=None, width=300, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image(r'C:\Users\86138\Desktop\GIX-UW&Tsinghua\510 Programming For User Interfaces\fukongfred-510-lab1-1\image\profile.png', width=300)
 
-st.subheader('', divider='rainbow')
+st.subheader('hi', divider='rainbow')
 
 bar = st.select_slider(
     'what do you want to know about me?',
