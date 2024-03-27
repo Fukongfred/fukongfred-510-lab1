@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.title('Hi! This is Fukong~')
+st.title('_Streamlit_ is :blue[cool] :sunglasses:💜')
+
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
     :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
