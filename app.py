@@ -5,7 +5,7 @@ st.title('Hi! This is Fukong~ 😎💜')
 
 pic = st.toggle('See my picture')
 if pic:
-    st.image(r"C:\Users\86138\Desktop\xhs\Group 1576.png", caption=None, width=300, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image("https://drive.google.com/file/d/1iq53CUdfJUilCyB26XclT3NxsGPBj_Sk/view?usp=sharing", caption=None, width=300, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.subheader('', divider='rainbow')
 
