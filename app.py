@@ -7,7 +7,7 @@ pic = st.toggle('See my picture')
 if pic:
     st.image('./image/profile.png', width=300)
 
-st.subheader('i', divider='rainbow')
+st.subheader('hi', divider='rainbow')
 
 bar = st.select_slider(
     'what do you want to know about me?',
