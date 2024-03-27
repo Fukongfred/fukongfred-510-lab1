@@ -5,7 +5,7 @@ st.title('Hi! This is Fukong~ 😎💜')
 
 pic = st.toggle('See my picture')
 if pic:
-    st.image('./image/profile.png', width=300)
+    st.image('C:/Users/86138/Desktop/GIX-UW&Tsinghua/510 Programming For User Interfaces/fukongfred-510-lab1-1/image/profile.png', width=300)
 
 st.subheader('hi', divider='rainbow')
 
